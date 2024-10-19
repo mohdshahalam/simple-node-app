@@ -1,5 +1,5 @@
 pipeline {
-  agent all-any
+
   stages {
     stage('Back-end') {
       agent {
